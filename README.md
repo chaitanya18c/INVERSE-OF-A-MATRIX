@@ -18,13 +18,13 @@ Give the linalg command
 Print the rank and get the output
 
 ## Program:
-#Program to find the inverse of a matrix.
-#Developed by: CHAITANYA P S
-#RegisterNumber: 212222230024
-import numpy as np
-A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
-B=np.linalg.inv(A)
-print(B)
+    #Program to find the inverse of a matrix.
+    #Developed by: CHAITANYA P S
+    #RegisterNumber: 212222230024
+    import numpy as np
+    A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
+    B=np.linalg.inv(A)
+    print(B)
 
 ## Output:
 ![image](https://github.com/chaitanya18c/INVERSE-OF-A-MATRIX/assets/119392724/92104ef2-5359-4ae8-a0d0-2664df465e8a)
